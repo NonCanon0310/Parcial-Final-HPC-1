@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/VFLinealRegression.dir/main.cpp.o CMakeFiles/VFLinealRegression.dir/regresionlineal.cpp.o CMakeFiles/VFLinealRegression.dir/Extraccion/extraer.cpp.o  -o VFLinealRegression 
